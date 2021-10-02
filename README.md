@@ -1,4 +1,4 @@
-# Deep-Learning-Approaches-to-Financial-Markets -
+# Deep Learning Approaches to Financial Markets 
 
 This research project implemented several Deep Learning approaches to identify and predict the trajectory of stocks in the pharmaceutical industry during the   Covid-19 pandemic. The paper was titled: 
 
